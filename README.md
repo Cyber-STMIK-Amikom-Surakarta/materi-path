@@ -45,3 +45,8 @@ Misalnya anda di posisi `C:\Users\Public\Documents`
 Materi ini ada di [Github Cyber](https://github.com/Cyber-STMIK-Amikom-Surakarta/materi-path)
 
 Nanti ada contoh (Unix (Terminal) dan Windows (Windows Explorer)) yang akan diberikan setelah ini
+
+- [Windows](https://github.com/Cyber-STMIK-Amikom-Surakarta/materi-path/blob/main/Windows.md)
+- Unix
+
+Kalau ada masalah bisa membuka [issue](https://github.com/Cyber-STMIK-Amikom-Surakarta/materi-path/issues)
