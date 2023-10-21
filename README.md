@@ -23,7 +23,7 @@ Absolute path merupakan alamat komplit suatu file atau folder yang dimulai denga
 
 ## Relative Path
 
-Relative path merupakan alamat yang relatif dengan posisi aplikasi / terminal yang anda pakai. path ini dimulai dengan `./`, disini kita juga bisa menggunakan `../` untuk keluar dari folder.
+Relative path merupakan alamat yang relatif dengan posisi aplikasi atau terminal yang anda pakai. path ini dimulai dengan `./`, disini kita juga bisa menggunakan `../` untuk keluar dari folder.
 
 ### Unix System
 
@@ -43,4 +43,5 @@ Misalnya anda di posisi `C:\Users\Public\Documents`
 ## Note : 
 
 Materi ini ada di [Github Cyber](https://github.com/Cyber-STMIK-Amikom-Surakarta/materi-path)
-Nanti ada contoh (Unix dan Windows) yang akan diberikan setelah ini
+
+Nanti ada contoh (Unix (Terminal) dan Windows (Windows Explorer)) yang akan diberikan setelah ini
