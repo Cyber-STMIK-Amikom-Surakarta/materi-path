@@ -30,6 +30,8 @@ hohoho, ada lagi
 
 ![](./images/windows/assets-path.png)
 
+### Absolute Path
+
 Okay, setelah melihat semua screenshot itu, kita bisa menuliskan hirarki agar enak dilihat
 
 - `F:\`
@@ -53,7 +55,7 @@ Okay, setelah melihat semua screenshot itu, kita bisa menuliskan hirarki agar en
                     - index.js (`F:\belajar-path\koding\js\assets\index.js`)
                     - style.css (`F:\belajar-path\koding\js\assets\style.css`)
 
-Okay sangat menarik, apakah bentuk seperti ini membuat kepala anda sakit, kalau iya berarti, berikut yang berbentuk list
+Okay sangat menarik, apakah bentuk seperti ini membuat kepala anda sakit, kalau iya berarti kita sama, berikut yang berbentuk list
 
 - `F:\`
 - `F:\belajar-path`
@@ -66,5 +68,11 @@ Okay sangat menarik, apakah bentuk seperti ini membuat kepala anda sakit, kalau 
 - `F:\belajar-path\koding\js\assets`
 - `F:\belajar-path\koding\js\assets\index.js`
 - `F:\belajar-path\koding\js\assets\style.css`
+
+### Relative Path
+
+Nanti dulu yak
+
+## Note : 
 
 Sekian, kalau ada permasalahan atau pertanyaan bisa buka [issue](https://github.com/Cyber-STMIK-Amikom-Surakarta/materi-path/issues)
