@@ -71,8 +71,22 @@ Okay sangat menarik, apakah bentuk seperti ini membuat kepala anda sakit, kalau 
 
 ### Relative Path
 
-Nanti dulu yak
+Tekan `Windows+R` untuk mengeluarkan `runner` lalu ketik `cmd`, nah karena contoh ini menggunakan drive `F:\` hal pertama kita ketik ialah `F:\`
+
+![](./images/windows/cmd-root-f.png)
+
+ditempatku seperti ini, liat yang dikotak itu merupakan `Absolute Path` yang sekarang dipakai oleh terminal, mari kita `cd` (cd digunakan untuk pindah folder) ke `belajar-path` kita bisa menggunakan `.\belajar-path` atau `belajar-path` ataupun `F:\belajar-path`
+
+Kalau kita ketik `tree` itu akan muncul hirarki yang kita buat di sebelumnya
+
+![](./images/windows/cmd-belajar-path-tree.png)
+
+Okay sebenernya udah tamat, tapi mari kita masuk ke js lalu keluar lagi, hal tersebut bisa kita lakukan dengan `cd .\koding\js`
+
+![](./images/windows/cmd-cd-in-out.png)
 
 ## Note : 
+
+Selamat jika anda sudah sampai disini, anda kurang lebih sudah paham konsep path di windows👏👏
 
 Sekian, kalau ada permasalahan atau pertanyaan bisa buka [issue](https://github.com/Cyber-STMIK-Amikom-Surakarta/materi-path/issues)
